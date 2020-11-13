@@ -1,0 +1,7 @@
+Change the input in the file inputPS4.txt 
+
+To run the program just use this command:-
+
+python3.7 AS2_PS4_MaxMin_108.py
+
+Output will be in the outputPS4.txt

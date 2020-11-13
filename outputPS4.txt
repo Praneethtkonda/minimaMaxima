@@ -1,0 +1,9 @@
+increasing 3
+decreasing 2
+minima 10
+maxima 10
+increasing -20
+decreasing -19
+minima -13
+maxima -14
+minima 0
